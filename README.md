@@ -7,3 +7,5 @@ spinning cube
 
 # Run
 1. `make run`
+
+<video src='CUBE.mp4' width=700/>
